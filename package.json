@@ -1,0 +1,10 @@
+{
+	"name": "casa-pugliaccia",
+	"description": "Server Node.js + MongoDB per il tracking e la gestione degli elettrodomestici di casa",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"express": "3.x",
+		"mongoose": "*"
+	}
+} 
